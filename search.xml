@@ -10,9 +10,9 @@
 </ul>
 <h3 id="本文所使用环境"><a href="#本文所使用环境" class="headerlink" title="本文所使用环境"></a>本文所使用环境</h3><ul>
 <li>Windows8.1</li>
-<li><a href="mailto:&#x6e;&#111;&#100;&#101;&#46;&#x6a;&#115;&#x40;&#53;&#46;&#53;&#x2e;&#x30;">&#x6e;&#111;&#100;&#101;&#46;&#x6a;&#115;&#x40;&#53;&#46;&#53;&#x2e;&#x30;</a></li>
-<li><a href="mailto:&#103;&#105;&#116;&#x40;&#49;&#x2e;&#57;&#x2e;&#x32;">&#103;&#105;&#116;&#x40;&#49;&#x2e;&#57;&#x2e;&#x32;</a></li>
-<li><a href="mailto:&#104;&#x65;&#120;&#x6f;&#x40;&#51;&#46;&#x32;&#46;&#x32;">&#104;&#x65;&#120;&#x6f;&#x40;&#51;&#46;&#x32;&#46;&#x32;</a></li>
+<li><a href="mailto:&#x6e;&#x6f;&#x64;&#101;&#x2e;&#106;&#115;&#x40;&#x35;&#46;&#x35;&#x2e;&#48;">&#x6e;&#x6f;&#x64;&#101;&#x2e;&#106;&#115;&#x40;&#x35;&#46;&#x35;&#x2e;&#48;</a></li>
+<li><a href="mailto:&#x67;&#x69;&#116;&#x40;&#49;&#x2e;&#x39;&#x2e;&#50;">&#x67;&#x69;&#116;&#x40;&#49;&#x2e;&#x39;&#x2e;&#50;</a></li>
+<li><a href="mailto:&#x68;&#101;&#120;&#x6f;&#x40;&#51;&#x2e;&#x32;&#46;&#50;">&#x68;&#101;&#120;&#x6f;&#x40;&#51;&#x2e;&#x32;&#46;&#50;</a></li>
 </ul>
 <h2 id="搭建GitHub博客"><a href="#搭建GitHub博客" class="headerlink" title="搭建GitHub博客"></a>搭建GitHub博客</h2><h3 id="安装hexo"><a href="#安装hexo" class="headerlink" title="安装hexo"></a>安装hexo</h3><p>先创建一个文件夹blog，然后cd到这个文件夹下（或者在这个文件夹下直接右键git bash打开）。</p>
 <figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">npm install -g hexo-cli</span><br></pre></td></tr></table></figure>
