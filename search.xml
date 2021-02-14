@@ -296,16 +296,263 @@
       </tags>
   </entry>
   <entry>
-    <title>雅思学习笔记1</title>
-    <url>/2021/02/12/IELTS/</url>
-    <content><![CDATA[<p>占坑</p>
+    <title>雅思写作Task1</title>
+    <url>/2021/02/12/IELTS1/</url>
+    <content><![CDATA[<h2 id="小作文基本了解"><a href="#小作文基本了解" class="headerlink" title="小作文基本了解"></a>小作文基本了解</h2><h3 id="得分-时间-要求"><a href="#得分-时间-要求" class="headerlink" title="得分+时间+要求"></a>得分+时间+要求</h3><p>小作文得分占比1/3，时间约20分钟，要求不少于150字<br>大作文得分占比2/3，时间约40分钟，要求250字上下</p>
+<h3 id="类型"><a href="#类型" class="headerlink" title="类型"></a>类型</h3><ol>
+<li>按整体<ul>
+<li>动态图</li>
+<li>静态图</li>
+</ul>
+</li>
+</ol>
+<ol start="2">
+<li>按图形<ul>
+<li>线形图（Line Graph）</li>
+<li>柱状图（Bar Chart）</li>
+<li>饼状图（Pie Chart）</li>
+<li>表格（Table）</li>
+<li>流程图（Diagran）</li>
+<li>地图题（Map）</li>
+</ul>
+</li>
+</ol>
+<h2 id="动态图"><a href="#动态图" class="headerlink" title="动态图"></a>动态图</h2><h3 id="写作思路"><a href="#写作思路" class="headerlink" title="写作思路"></a>写作思路</h3><h4 id="开头改写"><a href="#开头改写" class="headerlink" title="开头改写"></a>开头改写</h4><ul>
+<li>show 的同义替换 （give information about/illustrate/demonstrate）</li>
+<li>between and 与 from to 的替换</li>
+<li>抽象与具体的互换：three kinds of books</li>
+<li>名词与句子的互换：show how sth changed</li>
+</ul>
+<h4 id="中间段思路"><a href="#中间段思路" class="headerlink" title="中间段思路"></a>中间段思路</h4><p>1.多条线，找趋势</p>
+<ul>
+<li>趋势相同放在一起 also （but much less significantly/much more significantly） <ul>
+<li>Likewise, such a pattern could be found in xxx. </li>
+</ul>
+</li>
+<li>趋势不同用转折 however</li>
+<li>两条线相交 overtake/outnumber</li>
+</ul>
+<p>2.单条线，找主要数据（最高点、最低点、起点、终点、拐点），不需要所有的数据都写，写单条线要追求语法的多样性</p>
+<ul>
+<li>有拐点的可以用 before，after 句型</li>
+<li>描述的对象做主语<ul>
+<li>The number of the rabbits increased.</li>
+</ul>
+</li>
+<li>时间做主语 witness<ul>
+<li>The four year period witnessed an upward trend in the number of rabbits. </li>
+</ul>
+</li>
+<li>趋势做主语 occur<ul>
+<li>An upward trend occurred in the number of rabbits</li>
+</ul>
+</li>
+<li>there be 做主语 <ul>
+<li>There was an increase in the number of rabbits</li>
+</ul>
+</li>
+</ul>
+<h4 id="结尾段"><a href="#结尾段" class="headerlink" title="结尾段"></a>结尾段</h4><p>总结特征+特殊点，特殊点可以用以下句式连接</p>
+<ul>
+<li>it is interesting/incredible to find that</li>
+<li>interestingly/noticeably </li>
+</ul>
+<h3 id="举个栗子"><a href="#举个栗子" class="headerlink" title="举个栗子"></a>举个栗子</h3><p><strong>题：</strong>The line graph shows the sales of children’s book, adults’ fiction and educational book between 2002 and 2006 in one country.</p>
+<img src= "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" data-lazy-src="/2021/02/12/IELTS1/eg1.png" class title="eg1">
+
+<p><strong>答：</strong></p>
+<blockquote>
+<p>开头改写</p>
+</blockquote>
+<p>The line graph compares how three different books were sold in one country from 2002 to 2006.</p>
+<blockquote>
+<p>中间段1：描写单条线（整体趋势——》最高点/起点——》下降趋势——》拐点）</p>
+</blockquote>
+<p>During the years, a downward trend occurred in the sale of adults’ fiction. In 2002, among all these books, the figure for adults’ fiction was the largest(45 million dollars). However, it dropped to almost 35 million dollars in 2003. After increasing to 40 million dollars in 2004, the figure decreased to 30 million dollars in 2006.</p>
+<blockquote>
+<p>中间段2：描写两条趋势相同的线（与上文对比——》figure1整体趋势——》figure2相同——》figure2不同）</p>
+</blockquote>
+<p>By contrast, the sale of children’s book experienced an opposite trend. It increased from 32 to 55 million dollars from 2002 to 2006. Likewise, the four-year period also witnessed an upward trend in the sale of educational books, but much less significantly. The figure increased from 25 to 31 million dollars from 2002 to 2003. After declining to 25 million dollars again, the sale climbed to 32million dollars.</p>
+<blockquote>
+<p>结尾（整体——》特殊点）</p>
+</blockquote>
+<p>Overall, the sales of these three books changed a lot. It is interesting to note that, in 2002, adults’ fiction was the most popular book. However, by the end of 2006, it had been the least popular one.</p>
+<h3 id="有将来的变化"><a href="#有将来的变化" class="headerlink" title="有将来的变化"></a>有将来的变化</h3><ul>
+<li>be expected to</li>
+<li>be predicted to</li>
+</ul>
+<h2 id="静态图"><a href="#静态图" class="headerlink" title="静态图"></a>静态图</h2><h3 id="中间段思路-1"><a href="#中间段思路-1" class="headerlink" title="中间段思路"></a>中间段思路</h3><ol>
+<li>顺序<ul>
+<li>数据从大写到小（逻辑连接词可以用 largest——》in addition——》however）</li>
+<li>或者数据先写最大，再写最小，最后写其他（逻辑连接词 largest——》however——》in addition）</li>
+</ul>
+</li>
+<li>相同的数据进行组合（with the former occupying a slightly higher proportion than the latter）</li>
+</ol>
+<h3 id="举个栗子-1"><a href="#举个栗子-1" class="headerlink" title="举个栗子"></a>举个栗子</h3><p><strong>题：</strong>International students 的构成: Chinese (60%), Koreans (16%), Japanese (14%), Indians (7%), Vietnamese (3%). </p>
+<p><strong>答：</strong><br>Chinese students boast the <strong>largest</strong> share, accounting for 60 %. <strong>However</strong>, only a few international students are from India and Vietnam, and they only make up 7 % and 3 % respectively. <strong>In addition</strong> Koreans and Japanese together take up 30 %, <strong>with the former (16 %) occupying a marginally higher proportion than the latter (14 %)</strong>.</p>
+<blockquote>
+<p>积累词汇<br>xx boast the largest share （xx最多）<br>account for/make up/take up/occupy （表示占了多少份额）<br>,with the former (16 %) occupying a marginally higher proportion than the latter (14 %) （比较）</p>
+</blockquote>
+<h2 id="线形图（Line-Graph）-柱状图（Bar-Chart）-表格（Table）"><a href="#线形图（Line-Graph）-柱状图（Bar-Chart）-表格（Table）" class="headerlink" title="线形图（Line Graph）+ 柱状图（Bar Chart）+ 表格（Table）"></a>线形图（Line Graph）+ 柱状图（Bar Chart）+ 表格（Table）</h2><h3 id="数据描述"><a href="#数据描述" class="headerlink" title="数据描述"></a>数据描述</h3><p>线形图里最基本的特征有升高和降低，可以用“<strong>动词+副词</strong>”或“<strong>形容词+名词</strong>”这两种表达，他们可以相互转化。</p>
+<ol>
+<li>动词+副词</li>
+</ol>
+<ul>
+<li>动词<ul>
+<li>上升：increase，rise，grow，climb</li>
+<li>下降：decrease，drop，fall</li>
+</ul>
+</li>
+<li>副词<ul>
+<li>显著、大幅度：sharply，rapidly，dramatically，abruptly</li>
+<li>持续、稳步：gradually，steadily，consistently</li>
+<li>轻微、小幅：slightly，marginally，minimally</li>
+</ul>
+</li>
+</ul>
+<ol start="2">
+<li>形容词+名词</li>
+</ol>
+<ul>
+<li>形容词<ul>
+<li>显著、大幅度：sharp，rapid，dramatical</li>
+<li>持续、稳步：gradual，steadi，consistent</li>
+<li>轻微、小幅：slight，marginal，minimal，unnoticeable</li>
+</ul>
+</li>
+<li>名词<ul>
+<li>上升：increase，rise，growth</li>
+<li>下降：decrease，drop，fall</li>
+</ul>
+</li>
+</ul>
+<p>另外，还有线形图常出现的波动、保持平稳、到达最高或最低点，这样的表达每一类能记住两个就可以了。</p>
+<ul>
+<li>波动<ul>
+<li>fluctuate</li>
+<li>experience fluctuation</li>
+</ul>
+</li>
+<li>保持平稳<ul>
+<li>remain stable</li>
+<li>stay constant</li>
+</ul>
+</li>
+<li>到达最高点<ul>
+<li>peak at</li>
+<li>reach the highest point of</li>
+</ul>
+</li>
+<li>到达最低点<ul>
+<li>reach the lowest point</li>
+<li>hit a low of</li>
+<li>bottom up at</li>
+</ul>
+</li>
+<li>超过<ul>
+<li>overtake</li>
+<li>outnumber</li>
+</ul>
+</li>
+</ul>
+<h3 id="描述线形图的句型"><a href="#描述线形图的句型" class="headerlink" title="描述线形图的句型"></a>描述线形图的句型</h3><ul>
+<li>句型一：X（描述对象）+ 趋势动词 + 副词</li>
+<li>句型二：There was a + 形容词 + 趋势名词 + in X（描述对象）</li>
+<li>句型三：时间 + saw/ experienced/ witnessed a + 形容词 + 趋势名词</li>
+<li>句型四：A + 形容词 + 趋势名词 + took place/ occurred.</li>
+<li>句型五：X（描述对象）+ showed/ took +an upward/ downward trend.</li>
+</ul>
+<p>举个栗子：</p>
+<img src= "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" data-lazy-src="/2021/02/12/IELTS1/eg2.png" class title="eg2">
+<ul>
+<li>句型一：The price of textbooks fell sharply in 2019.</li>
+<li>句型二：There was a rapid decrease in the price of textbooks in 2019.</li>
+<li>句型三：The year 2019 witnessed a dramatic drop in the price of textbooks.</li>
+<li>句型四：A sharp fall in the price of textbooks took place in 2019.</li>
+<li>句型五：The price of textbooks showed a downward trend in 2019.</li>
+</ul>
+<h3 id="多点数据连接"><a href="#多点数据连接" class="headerlink" title="多点数据连接"></a>多点数据连接</h3><ul>
+<li>连接方式一：现在分词作状语：starting at, beginning from，通常可以在描述数据的开头时使用<blockquote>
+<p><strong>Starting at</strong> 30, X fluctuated around this level in the first decade.（句型一）</p>
+</blockquote>
+</li>
+</ul>
+<ul>
+<li>连接方式二：表示时间的连词：before, after，后面接完整句子或者动词的进行式<blockquote>
+<p>X had fluctuated around this level in the first decade <strong>before</strong> it dropped abruptly to 23 in 1970.<br>如果把第一个句子也加上的话，就会变成：<br><strong>Starting at</strong> 30, X had fluctuated around this level in the first decade <strong>before</strong> dropping abruptly to 23 in 1970.（上一节里句型一的合并）</p>
+</blockquote>
+</li>
+</ul>
+<ul>
+<li>连接方式三：表示并列或转折的连词：but, however, and, in addition<blockquote>
+<p><strong>However</strong>, the 1970s witnessed a considerable rise（句型三）, <strong>and then</strong> a peak of 60 took place in 1980.（句型四）</p>
+</blockquote>
+</li>
+</ul>
+<ul>
+<li>连接方式四：过去分词作状语：followed by（紧接着…），后面接名词性的短语<blockquote>
+<p><strong>However</strong>, the 1970s witnessed a considerable rise, <strong>and then</strong> a peak of 60 took place in 1980, <strong>followed by a sharp fall over the next ten-year period.</strong></p>
+</blockquote>
+</li>
+</ul>
+<ul>
+<li><p>连接方式五：时间定语从句：在表示时间的词后用when引出一个非限制性定语从句</p>
+<blockquote>
+<p>Yet, there had been a stable pattern at 8 until 2000（句型二）, <strong>when</strong> it began to increase slowly.</p>
+</blockquote>
+</li>
+<li><p>连接方式六：表示时间的副词：after this, following this period, thereafter</p>
+<blockquote>
+<p><strong>Nonetheless</strong>, X is expected to show a downward trend between 2018 and 2022（句型五）, <strong>and after that</strong>, it will probably show unnoticeable rise and fall.</p>
+</blockquote>
+</li>
+</ul>
+<h2 id="饼状图（Pie-Chart）"><a href="#饼状图（Pie-Chart）" class="headerlink" title="饼状图（Pie Chart）"></a>饼状图（Pie Chart）</h2><h3 id="“占比”数据的描写"><a href="#“占比”数据的描写" class="headerlink" title="“占比”数据的描写"></a>“占比”数据的描写</h3><ul>
+<li>句型一：大比例或小比例 + 主语 + 谓语，with + 数字</li>
+<li>句型二：主语 +（表示“组成”的动词）+ 数字</li>
+<li>句型三：单位 of 主语 + which/ who… + is + 数字</li>
+<li>句型四：数字 + 主语 + 谓语</li>
+<li>句型五：There be + 数字 + 主语 + which/ who…</li>
+<li>句型六：For + 主题，数字 + 主语 + 谓语</li>
+</ul>
+<h3 id="举个栗子-2"><a href="#举个栗子-2" class="headerlink" title="举个栗子"></a>举个栗子</h3><img src= "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" data-lazy-src="/2021/02/12/IELTS1/eg3.png" class title="eg3">
+<ul>
+<li>句型一：The majority of sales in Bob’s store <strong>come from</strong> DVDs, <strong>with exactly</strong> 60%.</li>
+<li>句型二：DVDs <strong>account for</strong> three fifths of the total sales.</li>
+<li>句型三：<strong>The percentage</strong> of PC games sold <strong>is exactly</strong> 20%.</li>
+<li>句型四：Fifteen percent of items sold in the store are CDs.</li>
+<li>句型五：<strong>There is</strong> merely 5% of the total revenue <strong>generated by</strong> selling posters.</li>
+<li>句型六：<strong>For</strong> the sales of posters, only 5% <strong>contributes to</strong> the turnover（营业额）.</li>
+</ul>
+<h3 id="顺序"><a href="#顺序" class="headerlink" title="顺序"></a>顺序</h3><p>遇到单一个饼图的话，应该把它独立成一个主体段，段里按照不同元素的占比，从大到小按顺序写（静态图）</p>
+<blockquote>
+<p>It is clear from the pie chart that（开头句式，引出第一个数据） a majority of sales in Bob’s store come from DVDs, with exactly 60%. Sales are spread over other goods. (引出其余四项数据) Specifically（具体来说）, the percentage of PC games sold is exactly 20%, whereas（表示对比）fifteen percent of items sold in the store are CDs. Lastly（引出最后一个元素）, for the sales of posters, only 5% contributes to the turnover.</p>
+</blockquote>
+<h2 id="流程图（Diagran）"><a href="#流程图（Diagran）" class="headerlink" title="流程图（Diagran）"></a>流程图（Diagran）</h2><h3 id="思路"><a href="#思路" class="headerlink" title="思路"></a>思路</h3><ol>
+<li>看箭头，找主要步骤</li>
+<li>找名词，添加细节</li>
+</ol>
+<h3 id="举个栗子-3"><a href="#举个栗子-3" class="headerlink" title="举个栗子"></a>举个栗子</h3><img src= "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" data-lazy-src="/2021/02/12/IELTS1/eg4.png" class title="eg4">
+<blockquote>
+<p>总起说明<br>The diagram gives information about how a hydroelectric power station generates electricity by means of the flow of water.<br>主要流程（白天）<br>In the daytime, water, coming from the river and kept in the high-level reservoir, flows through the intake which is under the dam and is only open during the day time. Then the water comes to the power station where the flow of water produces electricity through a generator which is operated by reversible turbines. Finally, the electricity goes from power lines to the national grid.<br>特殊情况（夜晚）<br>However, when it gets dark, the power station works in a reversed but easier way. Water kept in the low level reservoir is pumped by reversible turbines and finally it comes to the high level reservoir.<br>总结（different——》比较）<br>Overall, based on working time, the process could be divided into two different parts. In the day time, the process is far more complicated while in the night time, it is much easier.</p>
+</blockquote>
+<h2 id="地图题（Map）"><a href="#地图题（Map）" class="headerlink" title="地图题（Map）"></a>地图题（Map）</h2><h3 id="思路-1"><a href="#思路-1" class="headerlink" title="思路"></a>思路</h3><ol>
+<li>找出两幅图的变化</li>
+<li>按照方位，依次写出建筑物的特征。第一幅图不写变化，第二幅图些变化</li>
+</ol>
+<img src= "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" data-lazy-src="/2021/02/12/IELTS1/eg5.png" class title="eg5">
+<h3 id="举个栗子-4"><a href="#举个栗子-4" class="headerlink" title="举个栗子"></a>举个栗子</h3><img src= "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" data-lazy-src="/2021/02/12/IELTS1/eg6.png" class title="eg6">
+<blockquote>
+<p>总起说明<br>The two maps give information about how a village park has changed over ten years.<br>描述之前（第一幅图）<br>Ten years ago, there was a large football pitch in the center. To its south was a small pond, and in the southeastern corner stood woods, whose area was much larger than pond and slightly smaller than football pitch. In the north, near the border were two tennis courts. Between these two sport areas sat a car park in the west which could house 20 cars and a children’s play area in the east.<br>说明变化（第二幅图）<br>The football pitch now is still located in the center but occupies a marginally smaller area. In the south, the pond is used for boating now; the woods have been cleared and are replaced by a cafe. Besides, in the southwestern corner lies a new picnic area.On the northern side, the number of tennis courts has doubled and the car park has been enlarged, which means it could house 50 people currently. children’s play area has been divided into Children’s park and Children’s soft play area. In addition to changes inside the park, there is also a new cycle path around the whole area.<br>总结（整体的变化）<br>Overall, there are more sports facilities and parking space, and the natural spots in the south have been transformed to places for recreational activities.</p>
+</blockquote>
 ]]></content>
       <categories>
         <category>雅思</category>
       </categories>
       <tags>
-        <tag>雅思</tag>
         <tag>英语</tag>
+        <tag>雅思写作</tag>
       </tags>
   </entry>
 </search>
