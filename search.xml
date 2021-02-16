@@ -3,7 +3,7 @@
   <entry>
     <title>雅思写作Task1</title>
     <url>/2021/02/12/IELTS1/</url>
-    <content><![CDATA[<h2 id="小作文基本了解"><a href="#小作文基本了解" class="headerlink" title="小作文基本了解"></a>小作文基本了解</h2><h3 id="得分-时间-要求"><a href="#得分-时间-要求" class="headerlink" title="得分+时间+要求"></a>得分+时间+要求</h3><p>小作文得分占比1/3，时间约20分钟，要求不少于150字<br>大作文得分占比2/3，时间约40分钟，要求250字上下</p>
+    <content><![CDATA[<h2 id="小作文基本了解"><a href="#小作文基本了解" class="headerlink" title="小作文基本了解"></a>小作文基本了解</h2><h3 id="得分-时间-要求"><a href="#得分-时间-要求" class="headerlink" title="得分+时间+要求"></a>得分+时间+要求</h3><p>小作文得分占比1/3，时间约20分钟，要求不少于150字<br><a href="https://pic1.zhimg.com/v2-e947841f5b3f71e49f8e315fdc1841c6_r.jpg?source=172ae18bhttps://pic1.zhimg.com/v2-e947841f5b3f71e49f8e315fdc1841c6_r.jpg?source=172ae18b">https://pic1.zhimg.com/v2-e947841f5b3f71e49f8e315fdc1841c6_r.jpg?source=172ae18bhttps://pic1.zhimg.com/v2-e947841f5b3f71e49f8e315fdc1841c6_r.jpg?source=172ae18b</a></p>
 <h3 id="类型"><a href="#类型" class="headerlink" title="类型"></a>类型</h3><ol>
 <li>按整体<ul>
 <li>动态图</li>
@@ -456,9 +456,9 @@
 </ul>
 <h3 id="本文所使用环境"><a href="#本文所使用环境" class="headerlink" title="本文所使用环境"></a>本文所使用环境</h3><ul>
 <li>Windows8.1</li>
-<li><a href="mailto:&#x6e;&#111;&#x64;&#101;&#x2e;&#x6a;&#x73;&#64;&#53;&#46;&#x35;&#x2e;&#48;">&#x6e;&#111;&#x64;&#101;&#x2e;&#x6a;&#x73;&#64;&#53;&#46;&#x35;&#x2e;&#48;</a></li>
-<li><a href="mailto:&#103;&#105;&#x74;&#x40;&#49;&#x2e;&#57;&#x2e;&#50;">&#103;&#105;&#x74;&#x40;&#49;&#x2e;&#57;&#x2e;&#50;</a></li>
-<li><a href="mailto:&#104;&#x65;&#120;&#x6f;&#x40;&#x33;&#46;&#50;&#46;&#x32;">&#104;&#x65;&#120;&#x6f;&#x40;&#x33;&#46;&#50;&#46;&#x32;</a></li>
+<li><a href="mailto:&#110;&#x6f;&#x64;&#x65;&#46;&#106;&#115;&#x40;&#53;&#46;&#x35;&#46;&#x30;">&#110;&#x6f;&#x64;&#x65;&#46;&#106;&#115;&#x40;&#53;&#46;&#x35;&#46;&#x30;</a></li>
+<li><a href="mailto:&#103;&#105;&#x74;&#x40;&#x31;&#46;&#x39;&#x2e;&#50;">&#103;&#105;&#x74;&#x40;&#x31;&#46;&#x39;&#x2e;&#50;</a></li>
+<li><a href="mailto:&#104;&#101;&#120;&#x6f;&#x40;&#51;&#x2e;&#50;&#46;&#50;">&#104;&#101;&#120;&#x6f;&#x40;&#51;&#x2e;&#50;&#46;&#50;</a></li>
 </ul>
 <h2 id="搭建GitHub博客"><a href="#搭建GitHub博客" class="headerlink" title="搭建GitHub博客"></a>搭建GitHub博客</h2><h3 id="安装hexo"><a href="#安装hexo" class="headerlink" title="安装hexo"></a>安装hexo</h3><p>先创建一个文件夹blog，然后cd到这个文件夹下（或者在这个文件夹下直接右键git bash打开）。</p>
 <figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">npm install -g hexo-cli</span><br></pre></td></tr></table></figure>
