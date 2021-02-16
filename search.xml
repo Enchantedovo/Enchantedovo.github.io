@@ -240,8 +240,21 @@
 </ol>
 <h3 id="举个栗子-3"><a href="#举个栗子-3" class="headerlink" title="举个栗子"></a>举个栗子</h3><img src= "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" data-lazy-src="/2021/02/12/IELTS1/eg4.png" class title="eg4">
 <blockquote>
-<p>总起说明<br>The diagram gives information about how a hydroelectric power station generates electricity by means of the flow of water.<br>主要流程（白天）<br>In the daytime, water, coming from the river and kept in the high-level reservoir, flows through the intake which is under the dam and is only open during the day time. Then the water comes to the power station where the flow of water produces electricity through a generator which is operated by reversible turbines. Finally, the electricity goes from power lines to the national grid.<br>特殊情况（夜晚）<br>However, when it gets dark, the power station works in a reversed but easier way. Water kept in the low level reservoir is pumped by reversible turbines and finally it comes to the high level reservoir.<br>总结（different——》比较）<br>Overall, based on working time, the process could be divided into two different parts. In the day time, the process is far more complicated while in the night time, it is much easier.</p>
+<p>总起说明</p>
 </blockquote>
+<p>The diagram gives information about how a hydroelectric power station generates electricity by means of the flow of water. </p>
+<blockquote>
+<p>主要流程（白天）</p>
+</blockquote>
+<p>In the daytime, water, coming from the river and kept in the high-level reservoir, flows through the intake which is under the dam and is only open during the day time. Then the water comes to the power station where the flow of water produces electricity through a generator which is operated by reversible turbines. Finally, the electricity goes from power lines to the national grid. </p>
+<blockquote>
+<p>特殊情况（夜晚）</p>
+</blockquote>
+<p>However, when it gets dark, the power station works in a reversed but easier way. Water kept in the low level reservoir is pumped by reversible turbines and finally it comes to the high level reservoir.</p>
+<blockquote>
+<p>总结（different——》比较）</p>
+</blockquote>
+<p>Overall, based on working time, the process could be divided into two different parts. In the day time, the process is far more complicated while in the night time, it is much easier.</p>
 <h2 id="地图题（Map）"><a href="#地图题（Map）" class="headerlink" title="地图题（Map）"></a>地图题（Map）</h2><h3 id="思路-1"><a href="#思路-1" class="headerlink" title="思路"></a>思路</h3><ol>
 <li>找出两幅图的变化</li>
 <li>按照方位，依次写出建筑物的特征。第一幅图不写变化，第二幅图些变化</li>
@@ -283,9 +296,9 @@
 </ul>
 <h3 id="本文所使用环境"><a href="#本文所使用环境" class="headerlink" title="本文所使用环境"></a>本文所使用环境</h3><ul>
 <li>Windows8.1</li>
-<li><a href="mailto:&#110;&#111;&#x64;&#x65;&#x2e;&#106;&#115;&#x40;&#53;&#46;&#53;&#46;&#48;">&#110;&#111;&#x64;&#x65;&#x2e;&#106;&#115;&#x40;&#53;&#46;&#53;&#46;&#48;</a></li>
-<li><a href="mailto:&#x67;&#105;&#x74;&#64;&#x31;&#46;&#57;&#46;&#50;">&#x67;&#105;&#x74;&#64;&#x31;&#46;&#57;&#46;&#50;</a></li>
-<li><a href="mailto:&#x68;&#101;&#x78;&#111;&#64;&#x33;&#46;&#x32;&#46;&#x32;">&#x68;&#101;&#x78;&#111;&#64;&#x33;&#46;&#x32;&#46;&#x32;</a></li>
+<li><a href="mailto:&#110;&#x6f;&#100;&#101;&#46;&#x6a;&#x73;&#x40;&#x35;&#46;&#53;&#x2e;&#x30;">&#110;&#x6f;&#100;&#101;&#46;&#x6a;&#x73;&#x40;&#x35;&#46;&#53;&#x2e;&#x30;</a></li>
+<li><a href="mailto:&#103;&#x69;&#x74;&#x40;&#49;&#x2e;&#57;&#x2e;&#50;">&#103;&#x69;&#x74;&#x40;&#49;&#x2e;&#57;&#x2e;&#50;</a></li>
+<li><a href="mailto:&#104;&#x65;&#120;&#x6f;&#x40;&#51;&#46;&#x32;&#46;&#x32;">&#104;&#x65;&#120;&#x6f;&#x40;&#51;&#46;&#x32;&#46;&#x32;</a></li>
 </ul>
 <h2 id="搭建GitHub博客"><a href="#搭建GitHub博客" class="headerlink" title="搭建GitHub博客"></a>搭建GitHub博客</h2><h3 id="安装hexo"><a href="#安装hexo" class="headerlink" title="安装hexo"></a>安装hexo</h3><p>先创建一个文件夹blog，然后cd到这个文件夹下（或者在这个文件夹下直接右键git bash打开）。</p>
 <figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">npm install -g hexo-cli</span><br></pre></td></tr></table></figure>
@@ -360,97 +373,6 @@
       <tags>
         <tag>Hexo</tag>
         <tag>Markdown</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>NLP基础</title>
-    <url>/2021/02/12/nlp1/</url>
-    <content><![CDATA[<blockquote>
-<p>参考书籍：</p>
-<ul>
-<li>《自然语言处理理论与实战》</li>
-<li>《Python 自然语言处理》</li>
-<li>《Python 自然语言处理实战：核心技术与算法》</li>
-</ul>
-</blockquote>
-<h2 id="NLP基本概念"><a href="#NLP基本概念" class="headerlink" title="NLP基本概念"></a>NLP基本概念</h2><h3 id="什么是NLP"><a href="#什么是NLP" class="headerlink" title="什么是NLP"></a>什么是NLP</h3><p>NLP定义：自然语言处理，用计算机处理、理解以及运行的人类语言（如中文、英文等）</p>
-<p>NLP分类：</p>
-<ul>
-<li>自然语言理解<ul>
-<li>音系学：语法中发讯的系统化组织</li>
-<li>词态学：研究单词构成及相互关系</li>
-<li>句法学：给定文本哪部分是语法正确的</li>
-<li>语义句法学：给定文本的含义是什么？</li>
-<li>语法学：文本的目的是什么？</li>
-</ul>
-</li>
-<li>自然语言处理<ul>
-<li>自然语言文本</li>
-</ul>
-</li>
-</ul>
-<p>NLP的研究任务</p>
-<ul>
-<li>机器翻译：计算机具备将一种语言<strong>翻译成另一种语言</strong>的能力</li>
-<li>情感分析：计算机能够判断用户评论<strong>是否积极</strong></li>
-<li>智能问答：计算机能够正确<strong>回答输入的问题</strong></li>
-<li>文摘生成：计算机能够准确<strong>归纳、总结并产生文本摘要</strong></li>
-<li>文本分类：计算机能够采集各种文章，进行<strong>主题分析</strong>，从而进行<strong>自动分类</strong></li>
-<li>舆论分析：计算机能够<strong>判断目前舆论的导向</strong></li>
-<li>知识图谱：知识点相互连接而成的<strong>语义网络</strong></li>
-</ul>
-<h2 id="NLP常用术语"><a href="#NLP常用术语" class="headerlink" title="NLP常用术语"></a>NLP常用术语</h2><ul>
-<li>分词（segment）<ul>
-<li>将句子分成独立的有意义的语言成分（词）</li>
-</ul>
-</li>
-<li>词性标注（part-of-speech tagging）<ul>
-<li>对词的词性进行标注（例：动词、名词、形容词）</li>
-</ul>
-</li>
-<li>命名实体识别（NER, Named Entity Recognition）<ul>
-<li>从文本中识别具有特定类别的实体（例：人名、地名、机构名等）</li>
-</ul>
-</li>
-<li>句法分析（syntax parsing）<ul>
-<li>分析句子各个成分的依赖关系（例：主从关系），最后可生成句法分析树</li>
-</ul>
-</li>
-<li>指代消解（anaphora resolution）<ul>
-<li>代词指代</li>
-</ul>
-</li>
-<li>情感识别（emotion recognition）<ul>
-<li>本质是分类问题，经常应用在舆情分析等领域，可分为两类（正面、负面）或者三类（+中性）</li>
-</ul>
-</li>
-<li>纠错（correction）<ul>
-<li>在搜索技术和输入法中利用很多，具体做法可以根据N-Gram、字典树等等方法</li>
-</ul>
-</li>
-<li>问答系统（QA system）<ul>
-<li>类似机器人的人工智能系统</li>
-</ul>
-</li>
-</ul>
-<h2 id="语料库"><a href="#语料库" class="headerlink" title="语料库"></a>语料库</h2><ul>
-<li>中文维基百科</li>
-<li>搜狗新闻语料库</li>
-<li>IMDB情感分析语料库</li>
-<li>等</li>
-</ul>
-<h2 id="三个层次"><a href="#三个层次" class="headerlink" title="三个层次"></a>三个层次</h2><ul>
-<li>词法分析</li>
-<li>句法分析</li>
-<li>语义分析</li>
-</ul>
-]]></content>
-      <categories>
-        <category>自然语言处理</category>
-      </categories>
-      <tags>
-        <tag>自然语言处理</tag>
-        <tag>python</tag>
       </tags>
   </entry>
   <entry>
@@ -566,6 +488,97 @@
       <tags>
         <tag>python</tag>
         <tag>可视化</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>NLP基础</title>
+    <url>/2021/02/12/nlp1/</url>
+    <content><![CDATA[<blockquote>
+<p>参考书籍：</p>
+<ul>
+<li>《自然语言处理理论与实战》</li>
+<li>《Python 自然语言处理》</li>
+<li>《Python 自然语言处理实战：核心技术与算法》</li>
+</ul>
+</blockquote>
+<h2 id="NLP基本概念"><a href="#NLP基本概念" class="headerlink" title="NLP基本概念"></a>NLP基本概念</h2><h3 id="什么是NLP"><a href="#什么是NLP" class="headerlink" title="什么是NLP"></a>什么是NLP</h3><p>NLP定义：自然语言处理，用计算机处理、理解以及运行的人类语言（如中文、英文等）</p>
+<p>NLP分类：</p>
+<ul>
+<li>自然语言理解<ul>
+<li>音系学：语法中发讯的系统化组织</li>
+<li>词态学：研究单词构成及相互关系</li>
+<li>句法学：给定文本哪部分是语法正确的</li>
+<li>语义句法学：给定文本的含义是什么？</li>
+<li>语法学：文本的目的是什么？</li>
+</ul>
+</li>
+<li>自然语言处理<ul>
+<li>自然语言文本</li>
+</ul>
+</li>
+</ul>
+<p>NLP的研究任务</p>
+<ul>
+<li>机器翻译：计算机具备将一种语言<strong>翻译成另一种语言</strong>的能力</li>
+<li>情感分析：计算机能够判断用户评论<strong>是否积极</strong></li>
+<li>智能问答：计算机能够正确<strong>回答输入的问题</strong></li>
+<li>文摘生成：计算机能够准确<strong>归纳、总结并产生文本摘要</strong></li>
+<li>文本分类：计算机能够采集各种文章，进行<strong>主题分析</strong>，从而进行<strong>自动分类</strong></li>
+<li>舆论分析：计算机能够<strong>判断目前舆论的导向</strong></li>
+<li>知识图谱：知识点相互连接而成的<strong>语义网络</strong></li>
+</ul>
+<h2 id="NLP常用术语"><a href="#NLP常用术语" class="headerlink" title="NLP常用术语"></a>NLP常用术语</h2><ul>
+<li>分词（segment）<ul>
+<li>将句子分成独立的有意义的语言成分（词）</li>
+</ul>
+</li>
+<li>词性标注（part-of-speech tagging）<ul>
+<li>对词的词性进行标注（例：动词、名词、形容词）</li>
+</ul>
+</li>
+<li>命名实体识别（NER, Named Entity Recognition）<ul>
+<li>从文本中识别具有特定类别的实体（例：人名、地名、机构名等）</li>
+</ul>
+</li>
+<li>句法分析（syntax parsing）<ul>
+<li>分析句子各个成分的依赖关系（例：主从关系），最后可生成句法分析树</li>
+</ul>
+</li>
+<li>指代消解（anaphora resolution）<ul>
+<li>代词指代</li>
+</ul>
+</li>
+<li>情感识别（emotion recognition）<ul>
+<li>本质是分类问题，经常应用在舆情分析等领域，可分为两类（正面、负面）或者三类（+中性）</li>
+</ul>
+</li>
+<li>纠错（correction）<ul>
+<li>在搜索技术和输入法中利用很多，具体做法可以根据N-Gram、字典树等等方法</li>
+</ul>
+</li>
+<li>问答系统（QA system）<ul>
+<li>类似机器人的人工智能系统</li>
+</ul>
+</li>
+</ul>
+<h2 id="语料库"><a href="#语料库" class="headerlink" title="语料库"></a>语料库</h2><ul>
+<li>中文维基百科</li>
+<li>搜狗新闻语料库</li>
+<li>IMDB情感分析语料库</li>
+<li>等</li>
+</ul>
+<h2 id="三个层次"><a href="#三个层次" class="headerlink" title="三个层次"></a>三个层次</h2><ul>
+<li>词法分析</li>
+<li>句法分析</li>
+<li>语义分析</li>
+</ul>
+]]></content>
+      <categories>
+        <category>自然语言处理</category>
+      </categories>
+      <tags>
+        <tag>python</tag>
+        <tag>自然语言处理</tag>
       </tags>
   </entry>
 </search>
